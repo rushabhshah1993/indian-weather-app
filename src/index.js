@@ -1,3 +1,6 @@
+//Author: Rushabh Shah
+//For warm discussions of front-end web development and football (the original British one), drop a mail on shahrushabh1993@gmail.com
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
