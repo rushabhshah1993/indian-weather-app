@@ -24,3 +24,5 @@ To use this application,
 2. Open a terminal of your choice and head to the folder on your local machine where this code is stored.
 3. Type `npm install`.
 4. Type `npm start`.
+
+![](meta/images/home-view.png)
