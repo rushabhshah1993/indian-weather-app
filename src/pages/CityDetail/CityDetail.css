@@ -1,0 +1,36 @@
+.CityDetailContainer {
+    width: 50%;
+    margin: 10px auto 0 auto;
+}
+
+.CityDetail {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.Date {
+    margin-right: 20px;
+}
+
+.MoreDesc {
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: auto auto;
+    padding: 0 10%;
+}
+
+.DescDetails {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.Labels {
+    color: #444;
+}
+
+.Values {
+    margin: 0;
+}

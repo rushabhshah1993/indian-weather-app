@@ -1,0 +1,30 @@
+.Login {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.Form {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.Form input {
+    margin-bottom: 10px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.LoginButton {
+    background-color: '#fff';
+    height: 30px;
+    cursor: pointer;
+    border-radius: 10px;
+}
